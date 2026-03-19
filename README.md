@@ -23,48 +23,36 @@
 
 ---
 
-<div align="center">
-
 ## ✨ About Me
 
-</div>
-
-<table>
-  <tr>
-    <td width="58%" valign="top">
-
-```yaml
-name: YMZ1998
-focus:
-  - Modern web experiences
-  - Elegant UI and interaction design
-  - Performance-minded engineering
-currently:
-  - Building polished full-stack projects
-  - Experimenting with automation and AI workflows
-  - Learning continuously and shipping often
-motto: "Design boldly. Build carefully. Improve relentlessly."
-```
-
-</td>
-    <td width="42%" valign="top">
+- **Name:** YMZ1998
+- **Focus:** Modern web experiences / UI interaction design / performance-minded engineering
+- **Currently:** Building polished full-stack projects, experimenting with automation and AI workflows, and shipping consistently
+- **Style:** Design boldly. Build carefully. Improve relentlessly.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YMZ1998&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&bg_color=0d1117,111827,1f2937&title_color=60a5fa&icon_color=f472b6&text_color=e5e7eb" alt="GitHub stats" />
 </div>
 
-</td>
-  </tr>
-</table>
-
-<div align="center">
+---
 
 ## 🚀 Tech Vibes
 
-<p>
+<div align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,java,go,docker,git,linux,figma&perline=6" alt="Tech stack icons" />
-</p>
+</div>
 
+---
+
+## 🌌 Highlight Dashboard
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YMZ1998&hide_border=true&layout=compact&theme=tokyonight&bg_color=0d1117,111827,1f2937&title_color=60a5fa&text_color=e5e7eb" alt="Top languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YMZ1998&theme=tokyonight&hide_border=true&background=0D1117&ring=60A5FA&fire=F472B6&currStreakLabel=E5E7EB" alt="GitHub streak stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YMZ1998&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=12" alt="GitHub trophies" />
 </div>
 
 <div align="center">
@@ -90,25 +78,25 @@ motto: "Design boldly. Build carefully. Improve relentlessly."
 
 ---
 
-<div align="center">
-
 ## 📈 Activity Pulse
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YMZ1998&theme=react-dark&bg_color=0d1117&hide_border=true&line=60a5fa&point=f472b6&color=e5e7eb&title_color=ffffff" alt="GitHub activity graph" />
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YMZ1998&theme=react-dark&bg_color=0d1117&hide_border=true&line=60a5fa&point=f472b6&color=e5e7eb&title_color=ffffff" alt="GitHub activity graph" />
 </div>
 
 ---
 
-<div align="center">
-
 ## 🎮 Contribution Game
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YMZ1998/YMZ1998/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YMZ1998/YMZ1998/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/YMZ1998/YMZ1998/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YMZ1998/YMZ1998/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YMZ1998/YMZ1998/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/YMZ1998/YMZ1998/output/pacman-contribution-graph.svg">
+  </picture>
+</div>
+
+<div align="center">
 
 _generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
 
@@ -116,10 +104,6 @@ _generated with [abozanona/pacman-contribution-graph](https://abozanona.github.i
 
 ---
 
-<div align="center">
-
 ## 💫 Motto
 
 > Code with taste. Ship with confidence. Keep leveling up.
-
-</div>
