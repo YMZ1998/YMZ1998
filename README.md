@@ -46,19 +46,6 @@
 
 ## 🌌 Highlight Dashboard
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YMZ1998&hide_border=true&layout=compact&theme=tokyonight&bg_color=0d1117,111827,1f2937&title_color=60a5fa&text_color=e5e7eb" alt="Top languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YMZ1998&theme=tokyonight&hide_border=true&background=0D1117&ring=60A5FA&fire=F472B6&currStreakLabel=E5E7EB" alt="GitHub streak stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YMZ1998&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=12" alt="GitHub trophies" />
-</div>
-
-<div align="center">
-
-## 🌌 Highlight Dashboard
-
 </div>
 
 <table>
@@ -71,10 +58,6 @@
     </td>
   </tr>
 </table>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YMZ1998&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=12" alt="GitHub trophies" />
-</div>
 
 ---
 
