@@ -1,32 +1,108 @@
-<!-- GitHub 统计信息 -->
 <div align="center">
 
-### Welcome
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=YMZ1998&fontAlign=50&fontAlignY=38&color=0:0f172a,35:2563eb,70:7c3aed,100:ec4899&fontColor=ffffff&desc=Build%20cool%20things%20with%20code%20and%20curiosity&descAlign=50&descAlignY=58" alt="YMZ1998 header" />
 
-![GitHub followers](https://img.shields.io/github/followers/YMZ1998?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/YMZ1998?style=social)
-<img src="https://komarev.com/ghpvc/?username=YMZ1998&label=Profile%20views&color=ce9927&style=flat" alt="YMZ1998" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Full-stack+developer+%7C+Creative+builder+%7C+Lifelong+learner;Turning+ideas+into+interactive+experiences;Always+exploring+better+design%2C+better+code%2C+better+products)](https://git.io/typing-svg)
+
+<p>
+  <img src="https://img.shields.io/github/followers/YMZ1998?style=for-the-badge&logo=github&labelColor=111827&color=60a5fa" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/YMZ1998?style=for-the-badge&logo=github&labelColor=111827&color=f59e0b" alt="GitHub stars" />
+  <img src="https://komarev.com/ghpvc/?username=YMZ1998&style=for-the-badge&label=PROFILE+VIEWS&color=ec4899" alt="Profile views" />
+</p>
+
+<p>
+  <a href="https://github.com/YMZ1998">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://github.com/YMZ1998?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-2563eb?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Projects" />
+  </a>
+</p>
+
+</div>
 
 ---
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
-  
-  <!-- GitHub 统计信息 -->
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=YMZ1998&hide_title=false&hide_border=true&theme=dark&bg_color=30,e96443,c64dff&title_color=fff&text_color=fff" />
+<div align="center">
 
-  <!-- 最常用语言 -->
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YMZ1998&hide_title=false&hide_border=true&layout=compact&langs_count=6&text_color=fff&bg_color=30,c64dff,66ccff&theme=dark" />
+## ✨ About Me
+
+</div>
+
+<table>
+  <tr>
+    <td width="58%" valign="top">
+
+```yaml
+name: YMZ1998
+focus:
+  - Modern web experiences
+  - Elegant UI and interaction design
+  - Performance-minded engineering
+currently:
+  - Building polished full-stack projects
+  - Experimenting with automation and AI workflows
+  - Learning continuously and shipping often
+motto: "Design boldly. Build carefully. Improve relentlessly."
+```
+
+</td>
+    <td width="42%" valign="top">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YMZ1998&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&bg_color=0d1117,111827,1f2937&title_color=60a5fa&icon_color=f472b6&text_color=e5e7eb" alt="GitHub stats" />
+</div>
+
+</td>
+  </tr>
+</table>
+
+<div align="center">
+
+## 🚀 Tech Vibes
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,java,go,docker,git,linux,figma&perline=6" alt="Tech stack icons" />
+</p>
+
+</div>
+
+<div align="center">
+
+## 🌌 Highlight Dashboard
+
+</div>
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YMZ1998&hide_border=true&layout=compact&theme=tokyonight&bg_color=0d1117,111827,1f2937&title_color=60a5fa&text_color=e5e7eb" alt="Top languages" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=YMZ1998&theme=tokyonight&hide_border=true&background=0D1117&ring=60A5FA&fire=F472B6&currStreakLabel=E5E7EB" alt="GitHub streak stats" />
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YMZ1998&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=12" alt="GitHub trophies" />
+</div>
+
+---
+
+<div align="center">
+
+## 📈 Activity Pulse
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YMZ1998&theme=react-dark&bg_color=0d1117&hide_border=true&line=60a5fa&point=f472b6&color=e5e7eb&title_color=ffffff" alt="GitHub activity graph" />
 
 </div>
 
 ---
 
-<!-- GitHub 贡献图 -->
-![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=YMZ1998&theme=react-dark&bg_color=1F222E&hide_border=true)
+<div align="center">
 
-</div>
-
----
+## 🎮 Contribution Game
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YMZ1998/YMZ1998/output/pacman-contribution-graph-dark.svg">
@@ -35,3 +111,15 @@
 </picture>
 
 _generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
+
+</div>
+
+---
+
+<div align="center">
+
+## 💫 Motto
+
+> Code with taste. Ship with confidence. Keep leveling up.
+
+</div>
