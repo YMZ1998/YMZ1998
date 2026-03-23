@@ -25,11 +25,6 @@
 
 ## ✨ About Me
 
-- **Name:** YMZ1998
-- **Focus:** Modern web experiences / UI interaction design / performance-minded engineering
-- **Currently:** Building polished full-stack projects, experimenting with automation and AI workflows, and shipping consistently
-- **Style:** Design boldly. Build carefully. Improve relentlessly.
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YMZ1998&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&bg_color=0d1117,111827,1f2937&title_color=60a5fa&icon_color=f472b6&text_color=e5e7eb" alt="GitHub stats" />
 </div>
