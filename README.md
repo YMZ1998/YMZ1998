@@ -23,43 +23,10 @@
 
 ---
 
-## ✨ About Me
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YMZ1998&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&bg_color=0d1117,111827,1f2937&title_color=60a5fa&icon_color=60a5fa" />
-</div>
-
----
-
 ## 🚀 Tech Vibes
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,java,go,docker,git,linux,figma&perline=6" alt="Tech stack icons" />
-</div>
-
----
-
-## 🌌 Highlight Dashboard
-
-</div>
-
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YMZ1998&hide_border=true&layout=compact&theme=tokyonight&bg_color=0d1117,111827,1f2937&title_color=60a5fa&text_color=ffffff" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=YMZ1998&theme=tokyonight&hide_border=true&background=0D1117&ring=60A5FA&fire=F472B6&currStreakLabel=E5E7EB" alt="GitHub streak stats" />
-    </td>
-  </tr>
-</table>
-
----
-
-## 📈 Activity Pulse
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YMZ1998&theme=react-dark&bg_color=0d1117&hide_border=true&line=60a5fa&point=f472b6&color=e5e7eb&title_color=ffffff" alt="activity graph" />
 </div>
 
 ---
