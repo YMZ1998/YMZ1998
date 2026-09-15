@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=YMZ1998&fontAlign=50&fontAlignY=38&color=0:0f172a,35:2563eb,70:7c3aed,100:ec4899&fontColor=ffffff&desc=Build%20cool%20thi[...]" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=YMZ1998&fontAlign=50&fontAlignY=38&color=0:0f172a,35:2563eb,70:7c3aed,100:ec4899&fontColor=ffffff&desc=Build%20cool%20things%20and%20share%20the%20journey" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Full-stack+developer+%7C+Creative+builder+%7C+Lifelon[...]
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Full-stack+developer+%7C+Creative+builder+%7C+Lifelong+learner)](https://git.io/typing-svg)
 
 <p>
   <img src="https://img.shields.io/github/followers/YMZ1998?style=for-the-badge&logo=github&labelColor=111827&color=60a5fa" alt="GitHub followers" />
@@ -26,8 +26,7 @@
 ## ✨ About Me
 
 <div align="center">
-  <!-- Replaced dynamic image with a clickable link because the original image card sometimes fails to load; click to view the live stats image -->
-  [View GitHub stats image](https://github-readme-stats.vercel.app/api?username=YMZ1998&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&bg_color=0d1117,111827,1f2937&title_color=60a5fa&icon_col)
+  <img src="https://github-readme-stats.vercel.app/api?username=YMZ1998&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&bg_color=0d1117,111827,1f2937&title_color=60a5fa&icon_color=60a5fa" />
 </div>
 
 ---
@@ -47,12 +46,10 @@
 <table>
   <tr>
     <td width="50%">
-      <!-- Replaced image with link to avoid broken image display -->
-      [Top languages image](https://github-readme-stats.vercel.app/api/top-langs/?username=YMZ1998&hide_border=true&layout=compact&theme=tokyonight&bg_color=0d1117,111827,1f2937&title_color=60a5fa&text_color)
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YMZ1998&hide_border=true&layout=compact&theme=tokyonight&bg_color=0d1117,111827,1f2937&title_color=60a5fa&text_color=ffffff" />
     </td>
     <td width="50%">
-      <!-- Replaced potentially-broken streak image with clickable link -->
-      [GitHub streak stats image](https://github-readme-streak-stats.herokuapp.com/?user=YMZ1998&theme=tokyonight&hide_border=true&background=0D1117&ring=60A5FA&fire=F472B6&currStreakLabel=E5E7EB)
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=YMZ1998&theme=tokyonight&hide_border=true&background=0D1117&ring=60A5FA&fire=F472B6&currStreakLabel=E5E7EB" alt="GitHub streak stats" />
     </td>
   </tr>
 </table>
@@ -62,8 +59,7 @@
 ## 📈 Activity Pulse
 
 <div align="center">
-  <!-- Replaced dynamic activity graph image with a link to the generated SVG to avoid inline loading issues -->
-  [GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YMZ1998&theme=react-dark&bg_color=0d1117&hide_border=true&line=60a5fa&point=f472b6&color=e5e7eb&title_color=ffffff)
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YMZ1998&theme=react-dark&bg_color=0d1117&hide_border=true&line=60a5fa&point=f472b6&color=e5e7eb&title_color=ffffff" alt="activity graph" />
 </div>
 
 ---
