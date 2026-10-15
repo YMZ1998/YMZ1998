@@ -7,7 +7,6 @@
 <p>
   <img src="https://img.shields.io/github/followers/YMZ1998?style=for-the-badge&logo=github&labelColor=111827&color=60a5fa" alt="GitHub followers" />
   <img src="https://img.shields.io/github/stars/YMZ1998?style=for-the-badge&logo=github&labelColor=111827&color=f59e0b" alt="GitHub stars" />
-  <img src="https://komarev.com/ghpvc/?username=YMZ1998&style=for-the-badge&label=PROFILE+VIEWS&color=ec4899" alt="Profile views" />
 </p>
 
 <p>
